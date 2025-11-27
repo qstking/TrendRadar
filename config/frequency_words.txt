@@ -3,7 +3,7 @@
 真题
 
 AMD
-amd
+nvidia
 
 claude
 Anthropic
@@ -20,3 +20,5 @@ ai
 韩国
 
 新质生产力
+
+股票
